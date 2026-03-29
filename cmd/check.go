@@ -5,9 +5,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/user/pkgwatch/internal/output"
-	"github.com/user/pkgwatch/internal/pkgbuild"
-	"github.com/user/pkgwatch/internal/upstream"
+	"github.com/necouncil/pkgwatch/internal/output"
+	"github.com/necouncil/pkgwatch/internal/pkgbuild"
+	"github.com/necouncil/pkgwatch/internal/upstream"
 )
 
 func Run(args []string) error {
