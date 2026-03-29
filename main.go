@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/user/pkgwatch/cmd"
+	"github.com/necouncil/pkgwatch/cmd"
 )
 
 func main() {
