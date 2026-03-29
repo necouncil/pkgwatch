@@ -1,3 +1,3 @@
-module github.com/user/pkgwatch
+module github.com/necouncil/pkgwatch
 
 go 1.22
